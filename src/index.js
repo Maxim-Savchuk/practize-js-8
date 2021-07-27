@@ -1,4 +1,4 @@
-// import './js/r - get';
-// import './js/c - post';
-// import './js/u - patch';
+// import './js/r - get'; // Читает
+// import './js/c - post'; // Создает
+import './js/u - patch'; //   или PUT (ОБНОВЛЕНИЕ РЕСУРСА)
 // import './js/d - delete';

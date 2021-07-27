@@ -144,6 +144,186 @@
       ],
       "rating": 9,
       "id": 21
+    },
+    {
+      "title": "Тестовая книга",
+      "author": "Я",
+      "genres": [
+        "JS"
+      ],
+      "rating": 10,
+      "id": 22
+    },
+    {
+      "title": "Тестовая книга по CSS",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 53
+    },
+    {
+      "title": "Тестовая книга по CSS",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 54
+    },
+    {
+      "title": "Тестовая книга по CSS",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 55
+    },
+    {
+      "title": "Тестовая книга по CSS",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 56
+    },
+    {
+      "title": "Тестовая книга по CSS",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 57
+    },
+    {
+      "title": "Тестовая книга по HTML",
+      "author": "Я",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 8.6,
+      "id": 58
+    },
+    {
+      "title": "Тестовая книга по CSS",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 59
+    },
+    {
+      "title": "Тестовая книга по CSS",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 60
+    },
+    {
+      "title": "Тестовая книга по HTML",
+      "author": "Я",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 8.6,
+      "id": 61
+    },
+    {
+      "title": "Тестовая книга по CSS",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 62
+    },
+    {
+      "title": "Тестовая книга по HTML",
+      "author": "Я",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 8.6,
+      "id": 63
+    },
+    {
+      "title": "Тестовая книга по CSS",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 64
+    },
+    {
+      "title": "Тестовая книга по HTML",
+      "author": "Я",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 8.6,
+      "id": 65
+    },
+    {
+      "title": "Тестовая книга по CSS",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 66
+    },
+    {
+      "title": "Тестовая книга по HTML",
+      "author": "Я",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 8.6,
+      "id": 67
+    },
+    {
+      "title": "Тестовая книга по CSS",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 68
+    },
+    {
+      "title": "Тестовая книга по HTML",
+      "author": "Я",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 8.6,
+      "id": 69
+    },
+    {
+      "title": "Тестовая книга по CSS",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 70
+    },
+    {
+      "title": "Тестовая книга по HTML",
+      "author": "Я",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 8.6,
+      "id": 71
     }
   ]
 }
