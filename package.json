@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "parcel src/index.html",
-    "build": "parcel build src/index.html",
+    "build": "parcel build src/index.html --public-url /practize-js-8/",
     "server": "json-server --watch db.json -p 5555 -d 300"
   },
   "repository": {
@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/luxplanjay/js-22/issues"
   },
-  "homepage": "https://github.com/luxplanjay/js-22#readme",
+  "homepage": "https://github.com/Maxim-Savchuk/practize-js-8",
   "devDependencies": {
     "json-server": "^0.16.2",
     "parcel-bundler": "^1.12.4",
